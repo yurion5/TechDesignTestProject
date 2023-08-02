@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-French (fr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-French (fr)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b39e6c8e9dc45d341919f20af9ce2a0d
+  m_SerializeEntries:
+  - m_GUID: 1f0f1bfe056a1b840a19dba0fa23cb12
+    m_Address: scene_one_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3328ab7988dab88448a92a74d6a221a0
+    m_Address: scene_two_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4e09f476afad5df46ae5072888a54f11, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7cdcf46c8fb000a46b004c514a9845bf, type: 2}
+    - {fileID: 11400000, guid: c0cbbf116e29d9443bb0c86c9b46a369, type: 2}
